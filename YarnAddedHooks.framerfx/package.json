@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "3be81851-b1be-4e34-8845-76f3ccd13e0d"
+	},
+	"author": "Jason Sparks",
+	"dependencies": {
+		"git": "^0.1.5"
+	},
+	"version": "0.0.0"
+}
